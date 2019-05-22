@@ -1,0 +1,6 @@
+﻿  RoomCalc.cpp
+c:\users\conner-pc\documents\github repos\roomcalculator\roomcalc\roomcalc.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\conner-pc\documents\github repos\roomcalculator\roomcalc\roomcalc.cpp(31): error C3861: 'calcWallPaint': identifier not found
+c:\users\conner-pc\documents\github repos\roomcalculator\roomcalc\roomcalc.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\conner-pc\documents\github repos\roomcalculator\roomcalc\roomcalc.cpp(35): error C3861: 'calcWallPaint': identifier not found
+c:\users\conner-pc\documents\github repos\roomcalculator\roomcalc\roomcalc.cpp(39): error C3861: 'calcWallPaint': identifier not found

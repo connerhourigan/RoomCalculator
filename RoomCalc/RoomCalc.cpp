@@ -13,7 +13,7 @@ int main()
 	float height;
 	float width;
 	float area;
-	const float PI = 3.142;
+	const float PI = 3.142f;
 	std::vector<float> wallssize;
 
 
