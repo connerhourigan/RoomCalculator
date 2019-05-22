@@ -1,0 +1,4 @@
+﻿  RoomCalc.cpp
+c:\users\conner-pc\documents\github repos\roomcalculator\roomcalc\roomcalc.cpp(39): warning C4101: 'height': unreferenced local variable
+c:\users\conner-pc\documents\github repos\roomcalculator\roomcalc\roomcalc.cpp(40): warning C4101: 'width': unreferenced local variable
+  RoomCalc.vcxproj -> C:\Users\Conner-PC\Documents\Github Repos\RoomCalculator\Debug\RoomCalc.exe
