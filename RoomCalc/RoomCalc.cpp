@@ -29,10 +29,6 @@ float calcRoomVolume(std::vector<float> wallsize, int wallheight) {
 	return roomvolume;
 }
 
-
-
-
-
 int main()
 {
 	int walls;
